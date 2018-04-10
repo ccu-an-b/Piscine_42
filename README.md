@@ -1,2 +1,2 @@
 # Piscine_42
-Basic Coding Training in C.
+Basic Coding Training : C
