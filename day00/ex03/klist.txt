@@ -1,0 +1,7 @@
+Credentials cache: API:F8A1CE50-C258-4BE7-AE50-A50382364E1A
+        Principal: ccu-an-b@42.FR
+
+  Issued                Expires               Principal
+Jul  3 15:54:12 2017  Jul 10 15:54:12 2017  krbtgt/42.FR@42.FR
+Jul  3 15:57:42 2017  Jul 10 15:54:12 2017  host/vgs-fn1.42.fr@42.FR
+Jul  3 16:49:21 2017  Jul 10 15:54:12 2017  ldap/ldap-proxy.42.fr@42.FR
